@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "name": "Demo-4",
+    "version": "0.1",
+    "generated_at": "2025-09-06T15:41:44"
+  },
+  "users": [
+    {
+      "id": "uF01",
+      "display_name": "Aki",
+      "gender": "female",
+      "age_range": "30-34",
+      "job_cat": "教育",
+      "tags": ["グルメ","アウトドア","美術館"],
+      "rating_avg": 4.6,
+      "avatar_url": "/avatars/f01.png"
+    },
+    {
+      "id": "uF02",
+      "display_name": "Mina",
+      "gender": "female",
+      "age_range": "28-32",
+      "job_cat": "営業",
+      "tags": ["カフェ","グルメ","アウトドア"],
+      "rating_avg": 4.1,
+      "avatar_url": "/avatars/f02.png"
+    },
+    {
+      "id": "uF03",
+      "display_name": "Yui",
+      "gender": "female",
+      "age_range": "24-28",
+      "job_cat": "公共",
+      "tags": ["スポーツ","音楽","グルメ"],
+      "rating_avg": 4.3,
+      "avatar_url": "/avatars/f03.png"
+    },
+    {
+      "id": "uF04",
+      "display_name": "Saki",
+      "gender": "female",
+      "age_range": "24-28",
+      "job_cat": "IT",
+      "tags": ["映画","読書","アウトドア"],
+      "rating_avg": 4.8,
+      "avatar_url": "/avatars/f04.png"
+    },
+    {
+      "id": "uF05",
+      "display_name": "Rina",
+      "gender": "female",
+      "age_range": "28-32",
+      "job_cat": "金融",
+      "tags": ["映画","カフェ","スポーツ"],
+      "rating_avg": 4.6,
+      "avatar_url": "/avatars/f05.png"
+    },
+    {
+      "id": "uF06",
+      "display_name": "Noa",
+      "gender": "female",
+      "age_range": "28-32",
+      "job_cat": "医療",
+      "tags": ["音楽","カフェ","読書"],
+      "rating_avg": 4.9,
+      "avatar_url": "/avatars/f06.png"
+    },
+    {
+      "id": "uF07",
+      "display_name": "Emi",
+      "gender": "female",
+      "age_range": "24-28",
+      "job_cat": "コンサル",
+      "tags": ["スポーツ","お酒","旅行"],
+      "rating_avg": 4.4,
+      "avatar_url": "/avatars/f07.png"
+    },
+    {
+      "id": "uF08",
+      "display_name": "Hana",
+      "gender": "female",
+      "age_range": "26-30",
+      "job_cat": "教育",
+      "tags": ["お酒","映画","スポーツ"],
+      "rating_avg": 3.8,
+      "avatar_url": "/avatars/f08.png"
+    },
+    {
+      "id": "uM01",
+      "display_name": "Ken",
+      "gender": "male",
+      "age_range": "32-36",
+      "job_cat": "コンサル",
+      "tags": ["音楽","アウトドア","旅行"],
+      "rating_avg": 4.7,
+      "avatar_url": "/avatars/m01.png"
+    },
+    {
+      "id": "uM02",
+      "display_name": "Sora",
+      "gender": "male",
+      "age_range": "28-32",
+      "job_cat": "営業",
+      "tags": ["美術館","アウトドア","お酒"],
+      "rating_avg": 4.7,
+      "avatar_url": "/avatars/m02.png"
+    },
+    {
+      "id": "uM03",
+      "display_name": "Ren",
+      "gender": "male",
+      "age_range": "30-34",
+      "job_cat": "金融",
+      "tags": ["お酒","美術館","旅行"],
+      "rating_avg": 4.5,
+      "avatar_url": "/avatars/m03.png"
+    },
+    {
+      "id": "uM04",
+      "display_name": "Haru",
+      "gender": "male",
+      "age_range": "26-30",
+      "job_cat": "医療",
+      "tags": ["お酒","旅行","映画"],
+      "rating_avg": 4.0,
+      "avatar_url": "/avatars/m04.png"
+    },
+    {
+      "id": "uM05",
+      "display_name": "Jun",
+      "gender": "male",
+      "age_range": "32-36",
+      "job_cat": "医療",
+      "tags": ["スポーツ","美術館","音楽"],
+      "rating_avg": 4.8,
+      "avatar_url": "/avatars/m05.png"
+    },
+    {
+      "id": "uM06",
+      "display_name": "Daichi",
+      "gender": "male",
+      "age_range": "24-28",
+      "job_cat": "教育",
+      "tags": ["グルメ","スポーツ","読書"],
+      "rating_avg": 4.6,
+      "avatar_url": "/avatars/m06.png"
+    },
+    {
+      "id": "uM07",
+      "display_name": "Naoto",
+      "gender": "male",
+      "age_range": "30-34",
+      "job_cat": "教育",
+      "tags": ["カフェ","アウトドア","読書"],
+      "rating_avg": 4.4,
+      "avatar_url": "/avatars/m07.png"
+    },
+    {
+      "id": "uM08",
+      "display_name": "Takumi",
+      "gender": "male",
+      "age_range": "28-32",
+      "job_cat": "営業",
+      "tags": ["カフェ","美術館","お酒"],
+      "rating_avg": 4.7,
+      "avatar_url": "/avatars/m08.png"
+    }
+  ],
+  "venues": [
+    { "id": "v_渋谷_1", "name": "渋谷ラウンジ1（仮）", "area": "渋谷", "address": "渋谷区 サンプル1-丁目-番地", "map_url": "#", "price_band": "¥¥" },
+    { "id": "v_渋谷_2", "name": "渋谷ラウンジ2（仮）", "area": "渋谷", "address": "渋谷区 サンプル2-丁目-番地", "map_url": "#", "price_band": "¥¥" },
+    { "id": "v_新宿_1", "name": "新宿ラウンジ1（仮）", "area": "新宿", "address": "新宿区 サンプル1-丁目-番地", "map_url": "#", "price_band": "¥¥" },
+    { "id": "v_新宿_2", "name": "新宿ラウンジ2（仮）", "area": "新宿", "address": "新宿区 サンプル2-丁目-番地", "map_url": "#", "price_band": "¥¥" },
+    { "id": "v_恵比寿_1", "name": "恵比寿ラウンジ1（仮）", "area": "恵比寿", "address": "恵比寿区 サンプル1-丁目-番地", "map_url": "#", "price_band": "¥¥" },
+    { "id": "v_恵比寿_2", "name": "恵比寿ラウンジ2（仮）", "area": "恵比寿", "address": "恵比寿区 サンプル2-丁目-番地", "map_url": "#", "price_band": "¥¥" },
+    { "id": "v_銀座_1", "name": "銀座ラウンジ1（仮）", "area": "銀座", "address": "銀座区 サンプル1-丁目-番地", "map_url": "#", "price_band": "¥¥¥" },
+    { "id": "v_銀座_2", "name": "銀座ラウンジ2（仮）", "area": "銀座", "address": "銀座区 サンプル2-丁目-番地", "map_url": "#", "price_band": "¥¥¥" },
+    { "id": "v_池袋_1", "name": "池袋ラウンジ1（仮）", "area": "池袋", "address": "池袋区 サンプル1-丁目-番地", "map_url": "#", "price_band": "¥¥¥" },
+    { "id": "v_池袋_2", "name": "池袋ラウンジ2（仮）", "area": "池袋", "address": "池袋区 サンプル2-丁目-番地", "map_url": "#", "price_band": "¥¥¥" }
+  ],
+  "slots": [
+    { "id": "s_2025-09-08_1900_2100_渋谷", "date": "2025-09-08", "time_range": "19:00-21:00", "area": "渋谷", "venue_id": "v_渋谷_1", "status": "open" },
+    { "id": "s_2025-09-08_1900_2100_新宿", "date": "2025-09-08", "time_range": "19:00-21:00", "area": "新宿", "venue_id": "v_新宿_1", "status": "open" },
+    { "id": "s_2025-09-08_2000_2200_新宿", "date": "2025-09-08", "time_range": "20:00-22:00", "area": "新宿", "venue_id": "v_新宿_2", "status": "open" },
+    { "id": "s_2025-09-08_1900_2100_銀座", "date": "2025-09-08", "time_range": "19:00-21:00", "area": "銀座", "venue_id": "v_銀座_1", "status": "open" },
+    { "id": "s_2025-09-08_2000_2200_銀座", "date": "2025-09-08", "time_range": "20:00-22:00", "area": "銀座", "venue_id": "v_銀座_2", "status": "open" },
+    { "id": "s_2025-09-08_1900_2100_池袋", "date": "2025-09-08", "time_range": "19:00-21:00", "area": "池袋", "venue_id": "v_池袋_1", "status": "open" },
+    { "id": "s_2025-09-09_1900_2100_渋谷", "date": "2025-09-09", "time_range": "19:00-21:00", "area": "渋谷", "venue_id": "v_渋谷_2", "status": "open" },
+    { "id": "s_2025-09-09_1900_2100_新宿", "date": "2025-09-09", "time_range": "19:00-21:00", "area": "新宿", "venue_id": "v_新宿_1", "status": "open" },
+    { "id": "s_2025-09-09_2000_2200_恵比寿", "date": "2025-09-09", "time_range": "20:00-22:00", "area": "恵比寿", "venue_id": "v_恵比寿_1", "status": "open" },
+    { "id": "s_2025-09-09_1900_2100_銀座", "date": "2025-09-09", "time_range": "19:00-21:00", "area": "銀座", "venue_id": "v_銀座_1", "status": "open" },
+    { "id": "s_2025-09-09_2000_2200_銀座", "date": "2025-09-09", "time_range": "20:00-22:00", "area": "銀座", "venue_id": "v_銀座_2", "status": "open" },
+    { "id": "s_2025-09-09_1900_2100_池袋", "date": "2025-09-09", "time_range": "19:00-21:00", "area": "池袋", "venue_id": "v_池袋_2", "status": "open" },
+    { "id": "s_2025-09-10_1900_2100_渋谷", "date": "2025-09-10", "time_range": "19:00-21:00", "area": "渋谷", "venue_id": "v_渋谷_1", "status": "open" },
+    { "id": "s_2025-09-10_2000_2200_渋谷", "date": "2025-09-10", "time_range": "20:00-22:00", "area": "渋谷", "venue_id": "v_渋谷_2", "status": "open" },
+    { "id": "s_2025-09-10_1900_2100_新宿", "date": "2025-09-10", "time_range": "19:00-21:00", "area": "新宿", "venue_id": "v_新宿_2", "status": "open" },
+    { "id": "s_2025-09-10_1900_2100_恵比寿", "date": "2025-09-10", "time_range": "19:00-21:00", "area": "恵比寿", "venue_id": "v_恵比寿_2", "status": "open" },
+    { "id": "s_2025-09-10_2000_2200_銀座", "date": "2025-09-10", "time_range": "20:00-22:00", "area": "銀座", "venue_id": "v_銀座_2", "status": "open" },
+    { "id": "s_2025-09-10_1900_2100_池袋", "date": "2025-09-10", "time_range": "19:00-21:00", "area": "池袋", "venue_id": "v_池袋_1", "status": "open" },
+    { "id": "s_2025-09-11_1900_2100_渋谷", "date": "2025-09-11", "time_range": "19:00-21:00", "area": "渋谷", "venue_id": "v_渋谷_2", "status": "open" },
+    { "id": "s_2025-09-11_2000_2200_新宿", "date": "2025-09-11", "time_range": "20:00-22:00", "area": "新宿", "venue_id": "v_新宿_1", "status": "open" },
+    { "id": "s_2025-09-11_1900_2100_恵比寿", "date": "2025-09-11", "time_range": "19:00-21:00", "area": "恵比寿", "venue_id": "v_恵比寿_1", "status": "open" },
+    { "id": "s_2025-09-11_2000_2200_銀座", "date": "2025-09-11", "time_range": "20:00-22:00", "area": "銀座", "venue_id": "v_銀座_1", "status": "open" },
+    { "id": "s_2025-09-11_1900_2100_池袋", "date": "2025-09-11", "time_range": "19:00-21:00", "area": "池袋", "venue_id": "v_池袋_2", "status": "open" },
+    { "id": "s_2025-09-12_1900_2100_渋谷", "date": "2025-09-12", "time_range": "19:00-21:00", "area": "渋谷", "venue_id": "v_渋谷_1", "status": "open" },
+    { "id": "s_2025-09-12_2000_2200_渋谷", "date": "2025-09-12", "time_range": "20:00-22:00", "area": "渋谷", "venue_id": "v_渋谷_2", "status": "open" },
+    { "id": "s_2025-09-12_1900_2100_新宿", "date": "2025-09-12", "time_range": "19:00-21:00", "area": "新宿", "venue_id": "v_新宿_2", "status": "open" },
+    { "id": "s_2025-09-12_2000_2200_恵比寿", "date": "2025-09-12", "time_range": "20:00-22:00", "area": "恵比寿", "venue_id": "v_恵比寿_2", "status": "open" },
+    { "id": "s_2025-09-12_1900_2100_銀座", "date": "2025-09-12", "time_range": "19:00-21:00", "area": "銀座", "venue_id": "v_銀座_1", "status": "open" },
+    { "id": "s_2025-09-12_1900_2100_池袋", "date": "2025-09-12", "time_range": "19:00-21:00", "area": "池袋", "venue_id": "v_池袋_1", "status": "open" }
+  ]
+}
